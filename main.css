@@ -1,0 +1,18 @@
+.game {
+    height: 650px;
+    width: 40%;
+
+    border: solid 1px gray;
+}
+
+.adv {
+    height: 350px;
+
+    border: solid 1px gray;
+}
+
+.adv input {
+    width: 200px;
+
+    margin-bottom: 5%;
+}
