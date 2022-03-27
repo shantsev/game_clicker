@@ -1,4 +1,4 @@
-let money = 15000
+let money = 0
 let clicks = 1
 let auto = 0
 
